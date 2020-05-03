@@ -1,5 +1,5 @@
-# Pytorch-Projects
-## Blood Cells Classification Using Pytorch
+# Keras and Pytorch-Projects
+## Blood Cells Classification Using Keras
 ### Introduction
 The average human adult has more than 5 liters (6 quarts) of blood in his or her body. Blood carries oxygen and nutrients to living cells and takes away their waste products. It also delivers immune cells to fight infections and contains platelets that can form a plug in a damaged blood vessel to prevent blood loss.
 
